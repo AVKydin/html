@@ -1,0 +1,30 @@
+h1{
+    background-color: lightskyblue;
+    color: darkgoldenrod;
+    text-align: center;
+}
+
+h2{
+    background-color: #0b0bdc;
+    text-align: center;
+}
+
+a{
+    background-color: chartreuse;
+    color: darkgoldenrod;
+}
+
+p{
+    background-color: yellow;
+    color: #0b0bdc;
+}
+
+ul{
+    background-color: brown;
+    color: white;
+}
+
+li{
+    background-color: wheat;
+    color: seagreen;
+}
