@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71a30bca-2f12-4762-b220-5b42151efb25" name="Changes" comment="end">
+    <list default="true" id="71a30bca-2f12-4762-b220-5b42151efb25" name="Changes" comment="start HW2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson2/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson2/styles/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +63,7 @@
       <updated>1673987520910</updated>
       <workItem from="1673987523344" duration="3666000" />
       <workItem from="1674030249522" duration="669000" />
+      <workItem from="1674063858557" duration="2776000" />
     </task>
     <task id="LOCAL-00001" summary="start">
       <created>1673987644412</created>
@@ -83,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673991564271</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="start HW2">
+      <created>1674072633656</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674072633656</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,6 +113,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="start" />
     <MESSAGE value="end" />
-    <option name="LAST_COMMIT_MESSAGE" value="end" />
+    <MESSAGE value="start HW2" />
+    <option name="LAST_COMMIT_MESSAGE" value="start HW2" />
   </component>
 </project>
