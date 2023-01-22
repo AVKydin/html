@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71a30bca-2f12-4762-b220-5b42151efb25" name="Changes" comment="end HW3">
-      <change afterPath="$PROJECT_DIR$/Lesson2/images/earth.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson2/images/fire.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson2/images/location.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson2/images/star.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson2/styles/mainT4.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson2/task4.html" afterDir="false" />
+    <list default="true" id="71a30bca-2f12-4762-b220-5b42151efb25" name="Changes" comment="completed the second additional task for the second lesson">
+      <change afterPath="$PROJECT_DIR$/Lesson2/styles/mainT5.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson2/task5.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson2/task4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson2/task4.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -78,7 +75,7 @@
       <workItem from="1674119153087" duration="7478000" />
       <workItem from="1674159404907" duration="4668000" />
       <workItem from="1674387465764" duration="3042000" />
-      <workItem from="1674413624673" duration="1891000" />
+      <workItem from="1674413624673" duration="5011000" />
     </task>
     <task id="LOCAL-00001" summary="start">
       <created>1673987644412</created>
@@ -157,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674163465854</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="completed the second additional task for the second lesson">
+      <created>1674415703363</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1674415703363</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,6 +188,7 @@
     <MESSAGE value="end task1" />
     <MESSAGE value="chenges name 'task2'" />
     <MESSAGE value="end HW3" />
-    <option name="LAST_COMMIT_MESSAGE" value="end HW3" />
+    <MESSAGE value="completed the second additional task for the second lesson" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed the second additional task for the second lesson" />
   </component>
 </project>
