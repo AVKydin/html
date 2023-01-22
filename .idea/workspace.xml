@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71a30bca-2f12-4762-b220-5b42151efb25" name="Changes" comment="end home work2" />
+    <list default="true" id="71a30bca-2f12-4762-b220-5b42151efb25" name="Changes" comment="end HW3">
+      <change afterPath="$PROJECT_DIR$/Lesson2/images/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson2/images/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson2/images/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson2/styles/mainT3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson2/task3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,23 +42,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Octen/html/Lesson2",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Octen/html/Lesson3&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Octen\html\Lesson3" />
       <recent name="D:\Octen\html\Lesson2" />
     </key>
   </component>
@@ -67,6 +75,8 @@
       <workItem from="1674030249522" duration="669000" />
       <workItem from="1674063858557" duration="2912000" />
       <workItem from="1674119153087" duration="7478000" />
+      <workItem from="1674159404907" duration="4668000" />
+      <workItem from="1674387465764" duration="3042000" />
     </task>
     <task id="LOCAL-00001" summary="start">
       <created>1673987644412</created>
@@ -124,7 +134,28 @@
       <option name="project" value="LOCAL" />
       <updated>1674126989547</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="end task1">
+      <created>1674160550224</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1674160550224</updated>
+    </task>
+    <task id="LOCAL-00010" summary="chenges name 'task2'">
+      <created>1674160755605</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1674160755605</updated>
+    </task>
+    <task id="LOCAL-00011" summary="end HW3">
+      <created>1674163465854</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1674163465854</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,9 +177,11 @@
     <MESSAGE value="end" />
     <MESSAGE value="start HW2" />
     <MESSAGE value="that's all for today" />
-    <MESSAGE value="end task1" />
     <MESSAGE value="end home work" />
     <MESSAGE value="end home work2" />
-    <option name="LAST_COMMIT_MESSAGE" value="end home work2" />
+    <MESSAGE value="end task1" />
+    <MESSAGE value="chenges name 'task2'" />
+    <MESSAGE value="end HW3" />
+    <option name="LAST_COMMIT_MESSAGE" value="end HW3" />
   </component>
 </project>
