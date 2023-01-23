@@ -1,0 +1,99 @@
+.bg{
+    background-color: #bdbdc7;
+}
+.container{
+    width: 75vw;
+    height: 75vh;
+    margin: 10px auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.df {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.a {
+    width: 100%;
+    height: 30%;
+}
+
+.others{
+    width: 100%;
+    height: 65%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.others2{
+    width: 65%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+
+.b{
+    width: 100%;
+    height: 48%;
+}
+
+.others3{
+    width: 100%;
+    height: 48%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.d, .e, .c{
+    width: 30%;
+}
+
+.f{
+    width: 30%;
+}
+
+@media screen and (min-width: 0) and (max-width: 600px) {
+    .container{
+        height: 100vh;
+    }
+    .others{
+        width: 100%;
+        height: 68%;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .others2{
+        width: 100%;
+        height: 70%;
+    }
+
+    .b{
+        height: 75%;
+    }
+
+    .others3{
+        width: 100%;
+        height: 20%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .d, .e, .c{
+        width: 15%;
+        height: 100%;
+    }
+
+
+    .f{
+        width: 100%;
+        height: 25%;
+    }
+
+}
