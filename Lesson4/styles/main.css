@@ -3,9 +3,22 @@ body{
     padding: 0;
 }
 
+.nav{
+    margin: 100px auto;
+    width: 400px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.nav > a {
+    text-decoration: none;
+    color: aqua;
+    font-size: 24px;
+}
+
 .container{
     width: 95vw;
-    height: 75vh;
+    height: 65vh;
     margin: 50px auto;
     display: flex;
     flex-direction: column;
