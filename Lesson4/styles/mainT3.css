@@ -1,0 +1,92 @@
+.container {
+    width: 95%;
+    height: 50vh;
+    margin: 150px auto;
+    background-color: #6d6dea;
+    padding: 5px;
+}
+
+.bcg {
+    background-color: #bdbdc7;
+}
+
+.w100 {
+    width: 100%;
+}
+
+.w31 {
+    width: 31%;
+}
+
+.b-h {
+    height: 62%;
+    margin-top: 5px;
+}
+
+.b-g {
+    width: 75%;
+    height: 100%;
+    row-gap: 10px;
+}
+
+.block {
+    width: 24%;
+}
+
+.df {
+    display: flex;
+    justify-content: space-between;
+}
+
+.cc {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fw {
+    flex-wrap: wrap;
+}
+
+.a {
+    height: 31%;
+}
+
+
+@media screen and (min-width: 0) and (max-width: 600px) {
+    .container {
+        padding: 10px;
+    }
+
+    .b-h {
+        flex-direction: column;
+        height: 75%;
+    }
+
+    .b-g {
+        width: 100%;
+    }
+
+    .h {
+        width: 100%;
+        margin-top: 5px;
+        height: 33%;
+    }
+
+    .a {
+        height: 20%;
+    }
+
+    .b, .c, .d, .e, .f, .g {
+        width: 20%;
+        height: 20%;
+        margin: 15px;
+
+    }
+
+    .h {
+        height: 55%;
+    }
+
+}
+
