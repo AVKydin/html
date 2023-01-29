@@ -1,0 +1,213 @@
+@media screen and (min-width: 576px) and (max-width: 768px) {
+    .header {
+        height: 5%;
+    }
+
+    .others {
+        height: 95%;
+        position: relative;
+    }
+
+    .aside {
+        position: absolute;
+        left: -15%;
+        top: -50px;
+        height: 33%;
+        opacity: 0.3;
+    }
+
+    .as-content{
+        height: 10%;
+    }
+
+    .as-content:nth-child(1){
+        margin-bottom: 20px;
+    }
+
+    .as-none{
+        display: block;
+    }
+
+
+    .others2 {
+        width: 100%;
+        height: 100%;
+    }
+
+    .third {
+        height: 25%;
+    }
+
+    .fourth {
+        height: 40%;
+        flex-wrap: wrap;
+    }
+
+    .fourth-content {
+        width: 45%;
+        height: 45%;
+    }
+
+    .fifth-sixth {
+        height: 30%;
+        display: block;
+    }
+
+    .fifth {
+        width: 100%;
+        height: 70%;
+        overflow: hidden;
+        row-gap: 5px;
+        padding: 5px 0;
+    }
+
+    .fifth-content {
+        height: 25%;
+    }
+
+    .fifth-mini {
+        width: 30%;
+        height: 15%;
+
+    }
+
+    .none {
+        display: none;
+    }
+
+    .sixth {
+        width: 100%;
+        height: 30%;
+        display: flex;
+        flex-wrap: wrap;
+        padding: 5px 0;
+        row-gap: 5px;
+    }
+
+    .sixth-content {
+        width: 48%;
+        height: 25%;
+    }
+
+    .sixth-big {
+        height: 90%;
+    }
+
+    .footer {
+        height: 5%;
+    }
+}
+
+@media screen and (max-width: 576px){
+
+    .header {
+        height: 5%;
+        align-items: end;
+        padding: 10px;
+    }
+
+    .h-content{
+        width: 45%;
+        height: 50%;
+    }
+
+    .others {
+        height: 95%;
+        position: relative;
+    }
+
+    .aside {
+        position: absolute;
+        left: -15%;
+        top: -50px;
+        height: 24%;
+        opacity: 0.3;
+    }
+
+    .as-content{
+        height: 10%;
+    }
+
+    .as-content:nth-child(1){
+        margin-bottom: 20px;
+    }
+
+    .as-none{
+        display: block;
+    }
+
+
+    .others2 {
+        width: 100%;
+        height: 100%;
+    }
+
+    .third {
+        height: 20%;
+    }
+
+    .fourth {
+        height: 25%;
+        flex-wrap: wrap;
+    }
+
+    .fourth-content {
+        width: 45%;
+        height: 45%;
+    }
+
+    .fifth-sixth {
+        height: 52%;
+        display: block;
+    }
+
+    .fifth {
+        width: 100%;
+        height: 40%;
+        overflow: hidden;
+        row-gap: 5px;
+        padding: 5px 0;
+    }
+
+    .none-576{
+        display: none;
+    }
+
+    .fifth-content {
+        width: 95%;
+        height: 12%;
+    }
+
+    .fifth-mini {
+        width: 30%;
+        height: 12%;
+
+    }
+
+    .none {
+        display: none;
+    }
+
+    .sixth {
+        width: 100%;
+        height: 60%;
+        display: flex;
+        flex-wrap: wrap;
+        padding: 5px 0;
+        row-gap: 5px;
+        justify-content: center;
+    }
+
+    .sixth-content, .sixth-big {
+        width: 95%;
+        height: 15%;
+    }
+
+    .sixth-big {
+        height: 45%;
+    }
+
+    .footer {
+        height: 3%;
+    }
+}

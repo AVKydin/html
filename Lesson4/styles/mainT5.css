@@ -4,6 +4,7 @@ body{
     box-sizing: border-box;
 }
 
+
 div, aside, footer{
     border: 1px solid black;
     box-sizing: border-box;
@@ -52,6 +53,10 @@ div, aside, footer{
 .as-content{
     width: 90%;
     height: 5%;
+}
+
+.as-none{
+    display: none;
 }
 
 .others2{
