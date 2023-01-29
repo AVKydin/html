@@ -1,3 +1,4 @@
+
 h1{
     background-color: lightskyblue;
     color: darkgoldenrod;
@@ -27,4 +28,20 @@ ul{
 li{
     background-color: wheat;
     color: seagreen;
+}
+
+.nav{
+    margin: 20px auto;
+    width: 500px;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.nav > a {
+    text-decoration: none;
+    color: aqua;
+    font-size: 24px;
+    background-color: white;
+
 }

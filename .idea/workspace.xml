@@ -4,9 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71a30bca-2f12-4762-b220-5b42151efb25" name="Changes" comment="end task4 HW4">
-      <change afterPath="$PROJECT_DIR$/Lesson4/task5.html" afterDir="false" />
+    <list default="true" id="71a30bca-2f12-4762-b220-5b42151efb25" name="Changes" comment="end HWL4">
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson1/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson1/styles/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson2/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson2/styles/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson2/styles/mainT3.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson2/styles/mainT3.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson2/styles/mainT4.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson2/styles/mainT4.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson2/styles/mainT5.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson2/styles/mainT5.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson2/task1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson2/task1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson2/task2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson2/task2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson2/task3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson2/task3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson2/task4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson2/task4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson2/task5.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson2/task5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson3/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson3/styles/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson4/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson4/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson4/styles/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson4/styles/mainT3.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson4/styles/mainT3.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +97,7 @@
       <workItem from="1674760925187" duration="4799000" />
       <workItem from="1674850779484" duration="7161000" />
       <workItem from="1674919328079" duration="1238000" />
+      <workItem from="1675009331264" duration="10454000" />
     </task>
     <task id="LOCAL-00001" summary="start">
       <created>1673987644412</created>
@@ -206,7 +225,21 @@
       <option name="project" value="LOCAL" />
       <updated>1674859054239</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="end task5">
+      <created>1675021318709</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1675021318709</updated>
+    </task>
+    <task id="LOCAL-00020" summary="end HWL4">
+      <created>1675022314789</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1675022314789</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -240,6 +273,8 @@
     <MESSAGE value="added 'nav' to the HW4" />
     <MESSAGE value="end task3 HW4" />
     <MESSAGE value="end task4 HW4" />
-    <option name="LAST_COMMIT_MESSAGE" value="end task4 HW4" />
+    <MESSAGE value="end task5" />
+    <MESSAGE value="end HWL4" />
+    <option name="LAST_COMMIT_MESSAGE" value="end HWL4" />
   </component>
 </project>
